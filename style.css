@@ -125,6 +125,8 @@ header{
 .news{
   height: 400px;
   background-color: #ddd;
+  width: 100%;
+  overflow: hidden;
 }
 /* news end */
 
